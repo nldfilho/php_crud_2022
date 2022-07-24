@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40"
+   height="32"
+   viewBox="0 0 10.583333 8.4666666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="nldf.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#000000"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="34.247935"
+     inkscape:cx="17.796693"
+     inkscape:cy="13.562861"
+     inkscape:window-width="3840"
+     inkscape:window-height="2160"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="214.72566"
+       y="80.604713"
+       width="346.53418"
+       height="434.73688"
+       id="rect194" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g386"
+       transform="translate(1.0758747)">
+      <path
+         d="M 4.8774873,3.8875475 H 3.9557536 L 2.8279853,1.9844385 Q 2.6734593,1.7160513 2.6273726,1.5832132 H 2.6165287 Q 2.5677311,1.911242 2.4945346,2.2284268 L 2.139396,3.8875475 H 1.0577143 L 1.8791417,-1.7229468e-8 H 2.8903379 L 3.9774414,1.8055137 q 0.035243,0.051509 0.092173,0.1707918 0.059642,0.1165722 0.08404,0.2006126 h 0.013555 q 0.00813,-0.1003063 0.032532,-0.2114565 L 4.6145221,-1.7229468e-8 h 1.0843926 z"
+         id="path368"
+         style="font-style:italic;font-weight:900;font-size:5.55209px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy Italic';fill:#ffffff;stroke-width:10.1788" />
+      <path
+         d="M 8.1523529,3.8875475 H 5.644695 L 6.4661224,-1.7229468e-8 h 1.171144 L 7.0110297,2.9712357 h 1.3365139 z"
+         id="path370"
+         style="font-style:italic;font-weight:900;font-size:5.55209px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy Italic';fill:#ffffff;stroke-width:10.1788" />
+      <path
+         d="m 4.2318422,6.15691 q 0,0.6913002 -0.2900751,1.2253636 Q 3.6544031,7.916337 3.1311837,8.1928571 2.6106752,8.4666662 1.8976871,8.4666662 H 0.08404043 L 0.90546783,4.5791187 H 2.4534383 q 0.878358,0 1.3283809,0.4147802 0.450023,0.4147802 0.450023,1.1630111 z M 2.9875016,6.2463724 Q 2.9875016,5.8695459 2.7896,5.6824882 2.5916983,5.4954305 2.1823401,5.4954305 H 1.8814212 l -0.4310461,2.054924 h 0.3930923 q 0.5367744,0 0.8404043,-0.3497167 0.3036299,-0.3524276 0.3036299,-0.9542654 z"
+         id="path373"
+         style="font-style:italic;font-weight:900;font-size:5.55209px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy Italic';fill:#ffffff;stroke-width:10.1788" />
+      <path
+         d="M 7.7734729,5.4954305 H 6.5074446 L 6.3637625,6.1948637 H 7.5186407 L 7.318028,7.1111755 H 6.1631499 L 5.8812078,8.4666662 H 4.7100638 L 5.5314912,4.5791187 h 2.4371724 z"
+         id="path375"
+         style="font-style:italic;font-weight:900;font-size:5.55209px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy Italic';fill:#ffffff;stroke-width:10.1788" />
+    </g>
+  </g>
+</svg>
